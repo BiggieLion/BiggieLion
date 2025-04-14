@@ -1,7 +1,7 @@
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
 <h1>Hi 👋, I'm Jair León</h1>
-<p>Im a software engineer with more than 3 years of professional experience, passionate about learning new things about AI and Cloud Computing</p>
+<p>I'm a software engineer with more than 3 years of professional experience, passionate about learning new things about AI and Cloud Computing</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <h3>💻 Languages</h3>
 <p><a target="_blank" href="https://developer.mozilla.org/es/docs/Web/JavaScript" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
