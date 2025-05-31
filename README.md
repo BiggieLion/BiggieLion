@@ -2,6 +2,12 @@
 
 <h1>Hi 👋, I'm Jair León</h1>
 <p>I'm a software engineer with more than 3 years of professional experience, passionate about learning new things related AI and Cloud Computing</p>
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BiggieLion&theme=aura_dark" />
+    <br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BiggieLion&theme=aura_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BiggieLion&theme=aura_dark" />
+</div>
 <h2>🚀 Languages and Tools I Use</h2>
 <h3>💻 Languages</h3>
 <p><a target="_blank" href="https://developer.mozilla.org/es/docs/Web/JavaScript" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -42,4 +48,3 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/jairleon/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/17713566/jair-león" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BiggieLion&show_icons=true&locale=en&layout=compact" alt="BiggieLion" /></p>
