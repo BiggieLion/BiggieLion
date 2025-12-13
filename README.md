@@ -1,7 +1,11 @@
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
 <h1>Hi 👋, I'm Jair León</h1>
+
 <p>I'm a software engineer with more than 4 years of professional experience, passionate about learning new things related AI and Cloud Computing</p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/367482467134996481?idleMessage=I'm%20just%20chilling)](https://discord.com/users/367482467134996481)
+
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BiggieLion&theme=aura_dark" />
     <br>
